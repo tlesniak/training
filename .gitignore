@@ -3,7 +3,16 @@ build/
 __pycache__/
 *.log
 *.log.*
+/dist/*
 client_data/
 .pytest_cache/
 .vscode/
+logs/*
+tmp/*
 tests/__pycache__/
+trading_package.egg-info/dependency_links.txt
+trading_package.egg-info/entry_points.txt
+trading_package.egg-info/PKG-INFO
+trading_package.egg-info/requires.txt
+trading_package.egg-info/SOURCES.txt
+trading_package.egg-info/top_level.txt
