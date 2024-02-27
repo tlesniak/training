@@ -5,6 +5,7 @@ __pycache__/
 *.log.*
 /dist/*
 client_data/
+tmp_bitcoin_trading_report/
 .pytest_cache/
 .vscode/
 logs/*

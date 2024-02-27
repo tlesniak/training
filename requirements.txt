@@ -1,2 +1,4 @@
 pyspark==3.5.0
 pytest==8.0.1
+wheel==0.37.1
+check-wheel-contents==0.4.0
